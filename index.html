@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Menu de la semaine</title>
+  <meta name="theme-color" content="#2f4a3a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥗</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">🥗</span>
+      <h1>Menu de la semaine</h1>
+    </div>
+    <button class="sync" id="syncBtn" type="button" title="Synchronisation OneDrive">
+      <span class="dot" id="syncDot"></span><span id="syncLabel">Local</span>
+    </button>
+  </header>
+
+  <nav class="tabs" id="tabs" aria-label="Sections">
+    <button data-view="planning" class="active"><span aria-hidden="true">📅</span>Planning</button>
+    <button data-view="recettes"><span aria-hidden="true">📖</span>Recettes</button>
+    <button data-view="courses"><span aria-hidden="true">🛒</span>Courses</button>
+    <button data-view="budget"><span aria-hidden="true">💶</span>Budget</button>
+  </nav>
+
+  <main id="view"></main>
+
+  <dialog id="modal"><div id="modalBody"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script src="config.js"></script>
+  <script src="onedrive.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

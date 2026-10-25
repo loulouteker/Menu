@@ -1,0 +1,1007 @@
+{
+ "recettes": [
+  {
+   "id": "poisson-blanc-au-citron-puree-carotte-co",
+   "nom": "Poisson blanc au citron & purée carotte-courgette-fenouil",
+   "categorie": "Plats principaux",
+   "anti": true,
+   "prep": 15,
+   "cuisson": 20,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Poisson blanc (cabillaud, colin, lieu)",
+     "qte": 2,
+     "unite": "filet(s)",
+     "prix": 8.0
+    },
+    {
+     "produit": "Carotte",
+     "qte": 3,
+     "unite": "pièce(s)",
+     "prix": 0.66
+    },
+    {
+     "produit": "Courgette",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.9
+    },
+    {
+     "produit": "Fenouil",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 1.35
+    },
+    {
+     "produit": "Citron",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.6
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 2,
+     "unite": "cuillère à soupe",
+     "prix": 0.44
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    },
+    {
+     "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    }
+   ],
+   "etapes": [
+    "PURÉE — Éplucher les carottes et la courgette, couper en morceaux.",
+    "Nettoyer le fenouil et le couper grossièrement.",
+    "Cuire les légumes à la vapeur ou à l’eau (environ 15-20 min).",
+    "Égoutter et mixer avec un filet d’huile, sel, poivre. Réserver au chaud.",
+    "POISSON — Presser le citron, prélever un peu de zeste.",
+    "Faire chauffer l’huile dans une poêle.",
+    "Cuire les filets 2-3 min de chaque côté (selon épaisseur), arroser de jus de citron en fin de cuisson, ajouter les herbes fraîches (persil, thym ou aneth)."
+   ]
+  },
+  {
+   "id": "blanc-de-poulet-marine-au-sirop-d-erable",
+   "nom": "Blanc de poulet mariné au sirop d’érable & poêlée de légumes au lait de coco",
+   "categorie": "Plats principaux",
+   "anti": true,
+   "prep": 20,
+   "cuisson": 25,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Blanc de poulet",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 5.0
+    },
+    {
+     "produit": "Oignon ou poireau",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.6
+    },
+    {
+     "produit": "Carotte",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.22
+    },
+    {
+     "produit": "Courgette",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.9
+    },
+    {
+     "produit": "Brocoli",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 2.5
+    },
+    {
+     "produit": "Lait de coco",
+     "qte": 200,
+     "unite": "ml",
+     "prix": 1.2
+    },
+    {
+     "produit": "Sirop d’érable",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.48
+    },
+    {
+     "produit": "Citron",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.3
+    },
+    {
+     "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    },
+    {
+     "produit": "Curcuma / gingembre",
+     "qte": 1,
+     "unite": "cuillère à café",
+     "prix": 0.15
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.22
+    },
+    {
+     "produit": "Huile de coco",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.24
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "MARINADE (au moins 30 min, idéalement 2 h) — Dans un bol, mélanger sirop d’érable, huile d’olive, citron, sel, poivre et herbes.",
+    "Déposer les blancs de poulet, bien enrober, couvrir et réserver au frais.",
+    "LÉGUMES — Laver et couper les légumes en petits morceaux.",
+    "Faire chauffer l’huile de coco dans une poêle.",
+    "Faire revenir l’oignon ou le poireau, puis ajouter les autres légumes (brocoli, carotte, courgette).",
+    "Ajouter sel, épices, et verser le lait de coco. Laisser mijoter 10 à 12 min à feu doux.",
+    "POULET — Faire chauffer une poêle, y cuire le poulet avec sa marinade jusqu’à belle caramélisation (environ 5 à 7 min de chaque côté, selon l’épaisseur)."
+   ]
+  },
+  {
+   "id": "salade-tiede-de-poisson-legumes-vapeur-c",
+   "nom": "Salade tiède de poisson & légumes vapeur + choucroute",
+   "categorie": "Plats principaux",
+   "anti": true,
+   "prep": 15,
+   "cuisson": 15,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Poisson blanc (cabillaud, colin, lieu)",
+     "qte": 2,
+     "unite": "filet(s)",
+     "prix": 8.0
+    },
+    {
+     "produit": "Carotte",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.22
+    },
+    {
+     "produit": "Brocoli",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.5
+    },
+    {
+     "produit": "Courgette",
+     "qte": 80,
+     "unite": "g",
+     "prix": 0.28
+    },
+    {
+     "produit": "Choucroute cuite",
+     "qte": 200,
+     "unite": "g",
+     "prix": 0.8
+    },
+    {
+     "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    },
+    {
+     "produit": "Citron",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.3
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.22
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "POISSON — Pocher ou cuire à la vapeur les filets (150-180 g chacun), environ 6-8 min selon l’épaisseur.",
+    "Arroser d’un filet de jus de citron et parsemer de zestes, sel, poivre et herbes.",
+    "LÉGUMES — Éplucher et couper les légumes en morceaux.",
+    "Cuire à la vapeur 10-15 min jusqu’à ce qu’ils soient tendres mais encore un peu croquants.",
+    "ASSAISONNEMENT — Mélanger l’huile d’olive avec le jus de citron, une pincée de sel et un peu de zeste.",
+    "Servir avec la choucroute."
+   ]
+  },
+  {
+   "id": "dinde-marinee-aux-herbes-puree-navet-car",
+   "nom": "Dinde marinée aux herbes & purée navet-carotte",
+   "categorie": "Plats principaux",
+   "anti": true,
+   "prep": 20,
+   "cuisson": 20,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Escalope de dinde",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 4.2
+    },
+    {
+     "produit": "Carotte",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 0.44
+    },
+    {
+     "produit": "Navet",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 0.9
+    },
+    {
+     "produit": "Ail",
+     "qte": 1,
+     "unite": "gousses",
+     "prix": 0.08
+    },
+    {
+     "produit": "Citron",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.3
+    },
+    {
+     "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 2,
+     "unite": "cuillère à soupe",
+     "prix": 0.44
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "MARINADE (min. 30 min) — Mélanger l’huile, le citron, les herbes, l’ail haché, sel, poivre.",
+    "Couper la dinde en morceaux, les enrober, couvrir et réserver au frais.",
+    "PURÉE — Éplucher et couper les carottes et les navets.",
+    "Cuire à la vapeur ou à l’eau jusqu’à tendreté (15-20 min).",
+    "Mixer ou écraser avec l’huile, sel et épices si souhaité. Réserver au chaud.",
+    "BROCHETTES — Monter les morceaux de dinde sur des pics.",
+    "Faire griller à la poêle, au four ou au barbecue jusqu’à cuisson complète (10-12 min en tournant régulièrement)."
+   ]
+  },
+  {
+   "id": "poelee-aip-express-au-buf-legumes-d-hive",
+   "nom": "Poêlée AIP express au bœuf & légumes d’hiver",
+   "categorie": "Plats principaux",
+   "anti": true,
+   "prep": 10,
+   "cuisson": 15,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Bœuf (rumsteck, faux-filet, bavette ou haché)",
+     "qte": 300,
+     "unite": "g",
+     "prix": 6.6
+    },
+    {
+     "produit": "Carotte",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 0.44
+    },
+    {
+     "produit": "Panais ou navet",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.7
+    },
+    {
+     "produit": "Poireau",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 1.0
+    },
+    {
+     "produit": "Patate douce",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.7
+    },
+    {
+     "produit": "Curcuma / gingembre",
+     "qte": 1,
+     "unite": "cuillère à café",
+     "prix": 0.15
+    },
+    {
+     "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 2,
+     "unite": "cuillère à soupe",
+     "prix": 0.44
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "Couper les carottes, le panais (ou navet) et la patate douce en petits dés.",
+    "Les faire revenir dans une grande poêle avec 1 c. à s. d’huile et un fond d’eau, 10-12 min, couvercle fermé.",
+    "Ajouter le poireau émincé, cuire 3 min.",
+    "Pousser les légumes sur le côté, ajouter l’huile restante et saisir le bœuf 2-4 min selon la cuisson désirée (300-350 g).",
+    "Ajouter curcuma, gingembre, sel et herbes (thym ou persil). Mélanger et servir chaud."
+   ]
+  },
+  {
+   "id": "la-salade-de-jennifer-aniston",
+   "nom": "La salade de Jennifer Aniston",
+   "categorie": "Soupes et salades",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Boulgour",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.6
+    },
+    {
+     "produit": "Concombre",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.5
+    },
+    {
+     "produit": "Oignon rouge",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.25
+    },
+    {
+     "produit": "Pois chiches cuits",
+     "qte": 200,
+     "unite": "g",
+     "prix": 1.2
+    },
+    {
+     "produit": "Œufs durs",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 0.8
+    },
+    {
+     "produit": "Feta",
+     "qte": 100,
+     "unite": "g",
+     "prix": 1.75
+    },
+    {
+     "produit": "Citron",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.3
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 2,
+     "unite": "cuillère à soupe",
+     "prix": 0.44
+    },
+    {
+     "produit": "Miel",
+     "qte": 1,
+     "unite": "cuillère à café",
+     "prix": 0.13
+    },
+    {
+     "produit": "Menthe / origan",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.25
+    }
+   ],
+   "etapes": []
+  },
+  {
+   "id": "la-salade-halloumi",
+   "nom": "La salade Halloumi",
+   "categorie": "Soupes et salades",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Carotte",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.22
+    },
+    {
+     "produit": "Betterave cuite",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.7
+    },
+    {
+     "produit": "Concombre",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.5
+    },
+    {
+     "produit": "Halloumi",
+     "qte": 200,
+     "unite": "g",
+     "prix": 3.6
+    },
+    {
+     "produit": "Grenade",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 1.25
+    },
+    {
+     "produit": "Oignon rouge",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.25
+    },
+    {
+     "produit": "Persil",
+     "qte": 0.5,
+     "unite": "bouquet(s)",
+     "prix": 0.75
+    },
+    {
+     "produit": "Vinaigre de cidre",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.08
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 2,
+     "unite": "cuillère à soupe",
+     "prix": 0.44
+    }
+   ],
+   "etapes": []
+  },
+  {
+   "id": "poulet-courgettes-lentilles-et-riz",
+   "nom": "Poulet courgettes, lentilles et riz",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Lentilles",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.5
+    },
+    {
+     "produit": "Riz",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.3
+    },
+    {
+     "produit": "Blanc de poulet",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 5.0
+    },
+    {
+     "produit": "Courgette",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.9
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.22
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "Cuire les lentilles et le riz au rice cooker.",
+    "Couper le poulet et les courgettes, les cuire à la poêle avec l’huile.",
+    "Saler et servir ensemble."
+   ]
+  },
+  {
+   "id": "steak-hache-haricots-verts-et-riz",
+   "nom": "Steak haché, haricots verts et riz",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Steak haché",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 3.8
+    },
+    {
+     "produit": "Haricots verts",
+     "qte": 300,
+     "unite": "g",
+     "prix": 1.5
+    },
+    {
+     "produit": "Riz",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.3
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "Cuire le riz.",
+    "Cuire les haricots verts (vapeur ou eau).",
+    "Cuire les steaks hachés à la poêle."
+   ]
+  },
+  {
+   "id": "poulet-marine-brocoli-carotte-et-riz",
+   "nom": "Poulet mariné, brocoli, carotte et riz",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Blanc de poulet",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 5.0
+    },
+    {
+     "produit": "Brocoli",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 2.5
+    },
+    {
+     "produit": "Carotte",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.22
+    },
+    {
+     "produit": "Riz",
+     "qte": 100,
+     "unite": "g",
+     "prix": 0.3
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.22
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "Faire mariner le poulet.",
+    "Cuire le riz ; cuire le brocoli et la carotte.",
+    "Cuire le poulet à la poêle.",
+    "VARIANTE — remplacer brocoli, carotte et riz par patate douce + épinards."
+   ]
+  },
+  {
+   "id": "poisson-poireaux-et-courgette",
+   "nom": "Poisson, poireaux et courgette",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Poisson blanc (cabillaud, colin, lieu)",
+     "qte": 2,
+     "unite": "filet(s)",
+     "prix": 8.0
+    },
+    {
+     "produit": "Poireau",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 1.0
+    },
+    {
+     "produit": "Courgette",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.9
+    },
+    {
+     "produit": "Huile d’olive",
+     "qte": 1,
+     "unite": "cuillère à soupe",
+     "prix": 0.22
+    },
+    {
+     "produit": "Sel non raffiné",
+     "qte": 1,
+     "unite": "pincée(s)",
+     "prix": 0.01
+    }
+   ],
+   "etapes": [
+    "Émincer les poireaux et la courgette, les faire revenir à la poêle.",
+    "Cuire le poisson."
+   ]
+  },
+  {
+   "id": "bowl-patate-douce",
+   "nom": "Bowl patate douce",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Patate douce",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 1.4
+    },
+    {
+     "produit": "Fromage râpé",
+     "qte": 50,
+     "unite": "g",
+     "prix": 0.7
+    },
+    {
+     "produit": "Viande hachée",
+     "qte": 250,
+     "unite": "g",
+     "prix": 3.5
+    },
+    {
+     "produit": "Tomate",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.5
+    },
+    {
+     "produit": "Concombre",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.5
+    },
+    {
+     "produit": "Oignon rouge",
+     "qte": 0.5,
+     "unite": "pièce(s)",
+     "prix": 0.25
+    },
+    {
+     "produit": "Avocat",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 1.2
+    }
+   ],
+   "etapes": [
+    "Rôtir la patate douce coupée en deux, face contre la plaque.",
+    "En faire une purée et ajouter le fromage râpé.",
+    "Cuire la viande hachée.",
+    "Couper en dés la tomate, le concombre et l’oignon rouge.",
+    "Ajouter l’avocat et assembler le bowl."
+   ]
+  },
+  {
+   "id": "quiche-lorraine",
+   "nom": "Quiche lorraine",
+   "categorie": "Plats principaux",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [],
+   "etapes": []
+  },
+  {
+   "id": "cookies",
+   "nom": "Cookies",
+   "categorie": "Desserts",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [],
+   "etapes": []
+  },
+  {
+   "id": "frites-de-patates-douces",
+   "nom": "Frites de patates douces",
+   "categorie": "Accompagnements",
+   "anti": false,
+   "prep": null,
+   "cuisson": null,
+   "portions": 2,
+   "saison": "",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Patate douce",
+     "qte": 2,
+     "unite": "pièce(s)",
+     "prix": 2.8
+    },
+    {
+     "produit": "Blanc d’œuf",
+     "qte": 1,
+     "unite": "pièce(s)",
+     "prix": 0.4
+    }
+   ],
+   "etapes": [
+    "Couper les patates douces en frites.",
+    "Les enrober de blanc d’œuf (marinade).",
+    "Cuire au four jusqu’à ce qu’elles soient dorées."
+   ]
+  }
+ ],
+ "parametres": {
+  "categories": [
+   "Petit-déjeuner",
+   "Brunch",
+   "Déjeuner",
+   "Dîner",
+   "Apéritif",
+   "Entrées",
+   "Plats principaux",
+   "Accompagnements",
+   "Soupes et salades",
+   "Snacks et goûters",
+   "Desserts",
+   "Boissons",
+   "Plats végétariens",
+   "Recettes festives"
+  ],
+  "saisons": [
+   "Hiver",
+   "Printemps",
+   "Été",
+   "Automne"
+  ],
+  "prix": [
+   "€",
+   "€€",
+   "€€€"
+  ],
+  "unites": [
+   "balle(s)",
+   "barquette(s)",
+   "bidon(s)",
+   "bloc(s)",
+   "bocal(aux)",
+   "bol(s)",
+   "botte(s)",
+   "bouquet(s)",
+   "bouteille(s)",
+   "boîte(s)",
+   "brique(s)",
+   "caisse(s)",
+   "casserole(s)",
+   "cl",
+   "cube(s)",
+   "cuillère à café",
+   "cuillère à soupe",
+   "demi-litre(s)",
+   "dose(s)",
+   "doseur(s)",
+   "feuille(s)",
+   "filet(s)",
+   "flacon(s)",
+   "fût(s)",
+   "g",
+   "gousses",
+   "goutte(s)",
+   "grain(s)",
+   "grappe(s)",
+   "kg",
+   "L",
+   "litre(s)",
+   "louche(s)",
+   "mg",
+   "ml",
+   "moitié",
+   "morceau(x)",
+   "nuage(s)",
+   "panier(s)",
+   "paquet(s)",
+   "part(s)",
+   "pavé(s)",
+   "pincée(s)",
+   "pièce(s)",
+   "plaquette(s)",
+   "poignée(s)",
+   "pointe(s)",
+   "portion(s)",
+   "pot(s)",
+   "quart(s)",
+   "quartier(s)",
+   "rame(s)",
+   "rouleau(x)",
+   "sachet(s)",
+   "soupçon(s)",
+   "tasse(s)",
+   "tige(s)",
+   "tranche(s)",
+   "trio(s)",
+   "tube(s)",
+   "unité(s)",
+   "verre(s)",
+   "zeste(s)"
+  ],
+  "ingredients": [
+   "Ail",
+   "Avocat",
+   "Betterave cuite",
+   "Blanc d’œuf",
+   "Blanc de poulet",
+   "Bœuf (rumsteck, faux-filet, bavette ou haché)",
+   "Boulgour",
+   "Brocoli",
+   "Carotte",
+   "Choucroute cuite",
+   "Citron",
+   "Concombre",
+   "Courgette",
+   "Curcuma / gingembre",
+   "Escalope de dinde",
+   "Fenouil",
+   "Feta",
+   "Fromage râpé",
+   "Grenade",
+   "Halloumi",
+   "Haricots verts",
+   "Herbes aromatiques (persil, thym, romarin, aneth)",
+   "Huile d’olive",
+   "Huile de coco",
+   "Lait de coco",
+   "Lentilles",
+   "Menthe / origan",
+   "Miel",
+   "Navet",
+   "Œufs durs",
+   "Oignon ou poireau",
+   "Oignon rouge",
+   "Panais ou navet",
+   "Patate douce",
+   "Persil",
+   "Poireau",
+   "Pois chiches cuits",
+   "Poisson blanc (cabillaud, colin, lieu)",
+   "Riz",
+   "Sel non raffiné",
+   "Sirop d’érable",
+   "Steak haché",
+   "Tomate",
+   "Viande hachée",
+   "Vinaigre de cidre"
+  ]
+ }
+}
