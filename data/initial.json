@@ -15,49 +15,49 @@
     {
      "produit": "Poisson blanc (cabillaud, colin, lieu)",
      "qte": 2,
-     "unite": "filet(s)",
-     "prix": 8.0
+     "unite": "pièce",
+     "prix": 8
     },
     {
      "produit": "Carotte",
      "qte": 3,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.66
     },
     {
      "produit": "Courgette",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.9
     },
     {
      "produit": "Fenouil",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 1.35
     },
     {
      "produit": "Citron",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.6
     },
     {
      "produit": "Huile d’olive",
      "qte": 2,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.44
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     },
     {
      "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     }
    ],
@@ -86,79 +86,79 @@
     {
      "produit": "Blanc de poulet",
      "qte": 2,
-     "unite": "pièce(s)",
-     "prix": 5.0
+     "unite": "pièce",
+     "prix": 5
     },
     {
      "produit": "Oignon ou poireau",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.6
     },
     {
      "produit": "Carotte",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.22
     },
     {
      "produit": "Courgette",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.9
     },
     {
      "produit": "Brocoli",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 2.5
     },
     {
      "produit": "Lait de coco",
-     "qte": 200,
-     "unite": "ml",
+     "qte": 20,
+     "unite": "cl",
      "prix": 1.2
     },
     {
      "produit": "Sirop d’érable",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.48
     },
     {
      "produit": "Citron",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.3
     },
     {
      "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     },
     {
      "produit": "Curcuma / gingembre",
      "qte": 1,
-     "unite": "cuillère à café",
+     "unite": "càc",
      "prix": 0.15
     },
     {
      "produit": "Huile d’olive",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.22
     },
     {
      "produit": "Huile de coco",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.24
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -187,8 +187,8 @@
     {
      "produit": "Poisson blanc (cabillaud, colin, lieu)",
      "qte": 2,
-     "unite": "filet(s)",
-     "prix": 8.0
+     "unite": "pièce",
+     "prix": 8
     },
     {
      "produit": "Carotte",
@@ -217,25 +217,25 @@
     {
      "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     },
     {
      "produit": "Citron",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.3
     },
     {
      "produit": "Huile d’olive",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.22
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -256,56 +256,56 @@
    "prep": 20,
    "cuisson": 20,
    "portions": 2,
-   "saison": "",
+   "saison": "Hiver",
    "prix": "",
    "lien": "",
    "ingredients": [
     {
      "produit": "Escalope de dinde",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 4.2
     },
     {
      "produit": "Carotte",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.44
     },
     {
      "produit": "Navet",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.9
     },
     {
      "produit": "Ail",
      "qte": 1,
-     "unite": "gousses",
+     "unite": "pièce",
      "prix": 0.08
     },
     {
      "produit": "Citron",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.3
     },
     {
      "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     },
     {
      "produit": "Huile d’olive",
      "qte": 2,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.44
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -327,7 +327,7 @@
    "prep": 10,
    "cuisson": 15,
    "portions": 2,
-   "saison": "",
+   "saison": "Hiver",
    "prix": "",
    "lien": "",
    "ingredients": [
@@ -340,49 +340,49 @@
     {
      "produit": "Carotte",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.44
     },
     {
      "produit": "Panais ou navet",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.7
     },
     {
      "produit": "Poireau",
      "qte": 1,
-     "unite": "pièce(s)",
-     "prix": 1.0
+     "unite": "pièce",
+     "prix": 1
     },
     {
      "produit": "Patate douce",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.7
     },
     {
      "produit": "Curcuma / gingembre",
      "qte": 1,
-     "unite": "cuillère à café",
+     "unite": "càc",
      "prix": 0.15
     },
     {
      "produit": "Herbes aromatiques (persil, thym, romarin, aneth)",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     },
     {
      "produit": "Huile d’olive",
      "qte": 2,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.44
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -415,13 +415,13 @@
     {
      "produit": "Concombre",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.5
     },
     {
      "produit": "Oignon rouge",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.25
     },
     {
@@ -433,7 +433,7 @@
     {
      "produit": "Œufs durs",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.8
     },
     {
@@ -445,25 +445,25 @@
     {
      "produit": "Citron",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.3
     },
     {
      "produit": "Huile d’olive",
      "qte": 2,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.44
     },
     {
      "produit": "Miel",
      "qte": 1,
-     "unite": "cuillère à café",
+     "unite": "càc",
      "prix": 0.13
     },
     {
      "produit": "Menthe / origan",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.25
     }
    ],
@@ -484,19 +484,19 @@
     {
      "produit": "Carotte",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.22
     },
     {
      "produit": "Betterave cuite",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.7
     },
     {
      "produit": "Concombre",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.5
     },
     {
@@ -508,31 +508,31 @@
     {
      "produit": "Grenade",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 1.25
     },
     {
      "produit": "Oignon rouge",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.25
     },
     {
      "produit": "Persil",
      "qte": 0.5,
-     "unite": "bouquet(s)",
+     "unite": "bouquet",
      "prix": 0.75
     },
     {
      "produit": "Vinaigre de cidre",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.08
     },
     {
      "produit": "Huile d’olive",
      "qte": 2,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.44
     }
    ],
@@ -565,25 +565,25 @@
     {
      "produit": "Blanc de poulet",
      "qte": 2,
-     "unite": "pièce(s)",
-     "prix": 5.0
+     "unite": "pièce",
+     "prix": 5
     },
     {
      "produit": "Courgette",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.9
     },
     {
      "produit": "Huile d’olive",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.22
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -608,7 +608,7 @@
     {
      "produit": "Steak haché",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 3.8
     },
     {
@@ -626,7 +626,7 @@
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -651,19 +651,19 @@
     {
      "produit": "Blanc de poulet",
      "qte": 2,
-     "unite": "pièce(s)",
-     "prix": 5.0
+     "unite": "pièce",
+     "prix": 5
     },
     {
      "produit": "Brocoli",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 2.5
     },
     {
      "produit": "Carotte",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.22
     },
     {
@@ -675,13 +675,13 @@
     {
      "produit": "Huile d’olive",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.22
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -707,31 +707,31 @@
     {
      "produit": "Poisson blanc (cabillaud, colin, lieu)",
      "qte": 2,
-     "unite": "filet(s)",
-     "prix": 8.0
+     "unite": "pièce",
+     "prix": 8
     },
     {
      "produit": "Poireau",
      "qte": 1,
-     "unite": "pièce(s)",
-     "prix": 1.0
+     "unite": "pièce",
+     "prix": 1
     },
     {
      "produit": "Courgette",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.9
     },
     {
      "produit": "Huile d’olive",
      "qte": 1,
-     "unite": "cuillère à soupe",
+     "unite": "càs",
      "prix": 0.22
     },
     {
      "produit": "Sel non raffiné",
      "qte": 1,
-     "unite": "pincée(s)",
+     "unite": "pincée",
      "prix": 0.01
     }
    ],
@@ -755,7 +755,7 @@
     {
      "produit": "Patate douce",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 1.4
     },
     {
@@ -773,25 +773,25 @@
     {
      "produit": "Tomate",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.5
     },
     {
      "produit": "Concombre",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.5
     },
     {
      "produit": "Oignon rouge",
      "qte": 0.5,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.25
     },
     {
      "produit": "Avocat",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 1.2
     }
    ],
@@ -846,13 +846,13 @@
     {
      "produit": "Patate douce",
      "qte": 2,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 2.8
     },
     {
      "produit": "Blanc d’œuf",
      "qte": 1,
-     "unite": "pièce(s)",
+     "unite": "pièce",
      "prix": 0.4
     }
    ],
@@ -861,24 +861,44 @@
     "Les enrober de blanc d’œuf (marinade).",
     "Cuire au four jusqu’à ce qu’elles soient dorées."
    ]
+  },
+  {
+   "id": "soupe-au-fromage",
+   "nom": "Soupe au fromage",
+   "categorie": "Recettes rapides",
+   "anti": false,
+   "prep": 5,
+   "cuisson": 5,
+   "portions": 2,
+   "saison": "Hiver",
+   "prix": "",
+   "lien": "",
+   "ingredients": [
+    {
+     "produit": "Soupe",
+     "qte": 1,
+     "unite": "L",
+     "prix": 3.5
+    },
+    {
+     "produit": "Comté",
+     "qte": 250,
+     "unite": "g",
+     "prix": 4.49
+    }
+   ],
+   "etapes": []
   }
  ],
  "parametres": {
   "categories": [
    "Petit-déjeuner",
-   "Brunch",
-   "Déjeuner",
-   "Dîner",
-   "Apéritif",
-   "Entrées",
    "Plats principaux",
    "Accompagnements",
+   "Recettes rapides",
    "Soupes et salades",
    "Snacks et goûters",
-   "Desserts",
-   "Boissons",
-   "Plats végétariens",
-   "Recettes festives"
+   "Desserts"
   ],
   "saisons": [
    "Hiver",
@@ -892,69 +912,14 @@
    "€€€"
   ],
   "unites": [
-   "balle(s)",
-   "barquette(s)",
-   "bidon(s)",
-   "bloc(s)",
-   "bocal(aux)",
-   "bol(s)",
-   "botte(s)",
-   "bouquet(s)",
-   "bouteille(s)",
-   "boîte(s)",
-   "brique(s)",
-   "caisse(s)",
-   "casserole(s)",
-   "cl",
-   "cube(s)",
-   "cuillère à café",
-   "cuillère à soupe",
-   "demi-litre(s)",
-   "dose(s)",
-   "doseur(s)",
-   "feuille(s)",
-   "filet(s)",
-   "flacon(s)",
-   "fût(s)",
    "g",
-   "gousses",
-   "goutte(s)",
-   "grain(s)",
-   "grappe(s)",
-   "kg",
-   "L",
-   "litre(s)",
-   "louche(s)",
-   "mg",
-   "ml",
-   "moitié",
-   "morceau(x)",
-   "nuage(s)",
-   "panier(s)",
-   "paquet(s)",
-   "part(s)",
-   "pavé(s)",
-   "pincée(s)",
-   "pièce(s)",
-   "plaquette(s)",
-   "poignée(s)",
-   "pointe(s)",
-   "portion(s)",
-   "pot(s)",
-   "quart(s)",
-   "quartier(s)",
-   "rame(s)",
-   "rouleau(x)",
-   "sachet(s)",
-   "soupçon(s)",
-   "tasse(s)",
-   "tige(s)",
-   "tranche(s)",
-   "trio(s)",
-   "tube(s)",
-   "unité(s)",
-   "verre(s)",
-   "zeste(s)"
+   "cl",
+   "pièce",
+   "càc",
+   "càs",
+   "pincée",
+   "bouquet",
+   "L"
   ],
   "ingredients": [
    "Ail",
@@ -1001,7 +966,11 @@
    "Steak haché",
    "Tomate",
    "Viande hachée",
-   "Vinaigre de cidre"
+   "Vinaigre de cidre",
+   "Soupe",
+   "Comté"
   ]
- }
+ },
+ "planning": {},
+ "modele": 2
 }

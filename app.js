@@ -6,7 +6,7 @@
   const REPAS = [
     ["pdj", "Petit-déjeuner"], ["dej", "Déjeuner"], ["din", "Dîner"], ["snk", "Snacks / Goûters"], ["aut", "Autre"],
   ];
-  const NB_SEMAINES = 4;
+  const NB_SEMAINES = 5;
   const LS_DATA = "menu.data";
   const LS_UI = "menu.ui";
 
@@ -37,7 +37,8 @@
       version: 1,
       recettes: base.recettes || [],
       parametres: base.parametres || {},
-      planning: {},
+      planning: base.planning || {},
+      modele: base.modele || 1,
       notes: {},
       courses: {},
       majLe: new Date().toISOString(),
@@ -86,6 +87,7 @@
       }
       data = remote.data;
       lsSet(LS_DATA, data);
+      if (await migrate()) persist();
       meta = { etag: remote.etag, dirty: false }; lsSet("menu.meta", meta);
       setSync("ok", "OneDrive ✓");
       render();
@@ -456,7 +458,7 @@
           a.href = URL.createObjectURL(new Blob([JSON.stringify(data, null, 1)], { type: "application/json" }));
           a.download = `menu-de-la-semaine-${new Date().toISOString().slice(0, 10)}.json`; a.click();
         }
-        if (t.hasAttribute("data-reset") && confirm("Remettre l'application à zéro ? Le planning et les recettes ajoutées seront effacés (les 15 recettes d'origine sont restaurées).")) {
+        if (t.hasAttribute("data-reset") && confirm("Remettre l'application à zéro ? Le planning et les recettes ajoutées seront effacés (les recettes de ton fichier Menu sont restaurées).")) {
           data = emptyData(await (await fetch("data/initial.json")).json()); persist(); closeModal(); render();
         }
       };
@@ -519,14 +521,25 @@
     if (document.visibilityState === "visible" && OneDrive.connected() && !meta.dirty) pull({ silent: true });
   });
 
+  // Met à jour les recettes du modèle Excel quand une nouvelle version est publiée,
+  // en gardant le planning, les notes, les courses et les recettes ajoutées dans l'appli.
+  let base = null;
+  async function migrate() {
+    if (!base || (data.modele || 1) >= (base.modele || 1)) return false;
+    const neufs = new Set(base.recettes.map((r) => r.id));
+    const perso = data.recettes.filter((r) => !neufs.has(r.id) && !r.id.includes("-"));
+    data.recettes = [...base.recettes, ...perso];
+    data.parametres = base.parametres;
+    data.modele = base.modele;
+    return true;
+  }
+
   // ───────────────────────── démarrage
   (async function start() {
+    try { base = await (await fetch("data/initial.json", { cache: "no-cache" })).json(); } catch { base = null; }
     data = lsGet(LS_DATA);
-    if (!data) {
-      try { data = emptyData(await (await fetch("data/initial.json")).json()); }
-      catch { data = emptyData({}); }
-      lsSet(LS_DATA, data);
-    }
+    if (!data) { data = emptyData(base || {}); lsSet(LS_DATA, data); }
+    else if (await migrate()) lsSet(LS_DATA, data);
     render();
     if (!OneDrive.configured()) return setSync("", "Local");
     try { await OneDrive.handleRedirect(); } catch (e) { toast(e.message); }
