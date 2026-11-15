@@ -432,7 +432,11 @@
         : con ? `<p>Connecté en tant que <b>${esc(OneDrive.user() || "ton compte Microsoft")}</b>. Tes données sont enregistrées dans OneDrive › Applications, et partagées entre tous tes appareils.</p>
           <div class="actions" style="justify-content:flex-start"><button class="btn" data-sync>Synchroniser maintenant</button><button class="btn danger" data-logout>Se déconnecter</button></div>`
         : `<p>Connecte ton compte Microsoft pour enregistrer tes recettes et plannings dans ton OneDrive et les retrouver sur tous tes appareils.</p>
-          <div class="actions" style="justify-content:flex-start"><button class="btn primary" data-login>Se connecter à OneDrive</button></div>`}
+          <div class="actions" style="justify-content:flex-start"><button class="btn primary" data-login>Se connecter à OneDrive</button></div>
+          <details><summary class="muted" style="cursor:pointer;font-size:13px">Erreur « redirect_uri » ? Adresse à mettre dans Azure</summary>
+            <p style="font-size:13px;margin:8px 0">Dans Azure › ton application › <b>Authentification</b>, la plateforme doit être <b>Application monopage (SPA)</b> avec exactement cette adresse :</p>
+            <div style="display:flex;gap:6px"><input type="text" readonly value="${esc(OneDrive.redirectUri)}" onclick="this.select()"><button class="btn small" data-copyuri>Copier</button></div>
+          </details>`}
       <h3>Sauvegarde manuelle</h3>
       <div class="actions" style="justify-content:flex-start">
         <button class="btn" data-export>Exporter (.json)</button>
@@ -443,6 +447,7 @@
     </div>`, (box) => {
       box.onclick = async (e) => {
         const t = e.target;
+        if (t.hasAttribute("data-copyuri")) navigator.clipboard?.writeText(OneDrive.redirectUri).then(() => toast("Adresse copiée"));
         if (t.hasAttribute("data-login")) OneDrive.login().catch((er) => toast(er.message));
         if (t.hasAttribute("data-logout")) { OneDrive.logout(); meta = { etag: null, dirty: true }; lsSet("menu.meta", meta); setSync("", "Local"); closeModal(); toast("Déconnecté — données conservées ici"); }
         if (t.hasAttribute("data-sync")) { closeModal(); await pull(); }

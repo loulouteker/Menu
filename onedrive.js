@@ -6,7 +6,9 @@
   const SCOPES = "Files.ReadWrite.AppFolder User.Read offline_access openid profile";
   const KEY = "menu.auth";
   const cfg = window.APP_CONFIG || {};
-  const redirectUri = location.origin + location.pathname;
+  // Adresse de retour normalisée : sans « index.html » et toujours avec un « / » final,
+  // pour correspondre exactement à l'URI enregistrée dans Azure.
+  const redirectUri = location.origin + location.pathname.replace(/index\.html$/i, "").replace(/\/?$/, "/");
 
   const b64url = (buf) =>
     btoa(String.fromCharCode(...new Uint8Array(buf))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
@@ -77,6 +79,7 @@
 
   window.OneDrive = {
     configured: () => !!cfg.clientId,
+    redirectUri,
     user: () => store.get()?.user || null,
     connected: () => !!store.get()?.refresh,
     login,
